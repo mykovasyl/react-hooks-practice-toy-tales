@@ -4,25 +4,25 @@
       "id": 1,
       "name": "Woody",
       "image": "http://www.pngmart.com/files/3/Toy-Story-Woody-PNG-Photos.png",
-      "likes": 8
+      "likes": 9
     },
     {
       "id": 2,
       "name": "Buzz Lightyear",
       "image": "http://www.pngmart.com/files/6/Buzz-Lightyear-PNG-Transparent-Picture.png",
-      "likes": 14
+      "likes": 18
     },
     {
       "id": 3,
       "name": "Mr. Potato Head",
       "image": "https://vignette.wikia.nocookie.net/universe-of-smash-bros-lawl/images/d/d8/Mr-potato-head-toy-story.gif/revision/latest?cb=20151129131217",
-      "likes": 3
+      "likes": 4
     },
     {
       "id": 4,
       "name": "Slinky Dog",
       "image": "https://www.freeiconspng.com/uploads/slinky-png-transparent-1.png",
-      "likes": 4
+      "likes": 7
     },
     {
       "id": 5,
@@ -47,6 +47,24 @@
       "name": "Little Green Men",
       "image": "http://www.pngmart.com/files/3/Toy-Story-Alien-PNG-File.png",
       "likes": -2
+    },
+    {
+      "name": "hi what's your name",
+      "image": "hello what are you going",
+      "likes": 0,
+      "id": 9
+    },
+    {
+      "name": "Baby",
+      "image": "https://www.theflavorbender.com/wp-content/uploads/2019/01/Easy-Chicken-Ramen-Featured.jpg",
+      "likes": 0,
+      "id": 10
+    },
+    {
+      "name": "Another Toy",
+      "image": "https://i.guim.co.uk/img/media/f9418f9a9ce1fae8ccdf8064dc2fcc74cda4ed7d/0_126_4896_2938/master/4896.jpg?width=620&quality=45&auto=format&fit=max&dpr=2&s=e041b49488317070d4b9e6a671e92c48",
+      "likes": 0,
+      "id": 13
     }
   ]
 }
